@@ -88,6 +88,7 @@ public class Demo {
 		n1=sc.nextDouble();
 		System.out.println("Enter the Second Number:");
 		n2=sc.nextDouble();
+		System.out.println("Conflict2");
 			
 		}
 			
